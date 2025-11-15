@@ -3,6 +3,7 @@
 #include <vector>
 #include <queue>
 #include <climits>
+#include <algorithm>
 using namespace std;
 
 typedef pair<int, int> pii; // pair<distance, vertex>

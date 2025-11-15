@@ -1,6 +1,7 @@
 // 0/1 Knapsack Problem - Dynamic Programming
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 // 0/1 Knapsack - Return maximum value
